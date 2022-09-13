@@ -1,5 +1,4 @@
-# Patika-ilk-Web-Page
-HTML ilk Ödev
+
 <!DOCTYPE html>
 <html lang="tr">
 <head>
