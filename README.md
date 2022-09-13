@@ -19,10 +19,10 @@
    
 <!--Alt başlık için H2 komutu kullandım-->
 <h2>Hobilerim</h2>
-<p>- Kitap okumak
-   - Örgü örmek
-   - Aksiyon film-dizi izlemek
-</p>
+<p>- Kitap okumak</p>
+<p>- Örgü örmek</p>
+<p>- Aksiyon film-dizi izlemek</p>
+
 <!--Kodluyoruz bağlantısı vermek için a href komutunu kullandım-->
 <a href="https://github.com/Elif-desing/Patika-ilk-Web-Page"
 </body>
