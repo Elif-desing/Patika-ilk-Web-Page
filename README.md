@@ -22,6 +22,38 @@
 <p>- Kitap okumak</p>
 <p>- Örgü örmek</p>
 <p>- Aksiyon film-dizi izlemek</p>
+<h2>Hobilerim</h2>
+<!--Alt başlık için h2 komutu kullandım-->
+<p>
+    <lo>
+        <li>Kitap</li>
+        <p>
+            <lu style="list-style-type: style type square;">
+                <li><a href="https://www.goodreads.com/book/show/8391758-alacakaranl-k">Alacakaranlık</a></li>
+            </lu>
+        </p>
+    </lo>
+</p>
+<p>
+    <lo>
+        <li>Film</li>
+        <p>
+            <lu style="list-style-type: style type square">
+                <li><a href="https://www.imdb.com/title/tt1392170/?ref_=ext_shr_lnk">Açlık Oyunları</a></li>
+            </lu>
+        </p>
+    </lo>
+</p>
+<p>
+    <lo>
+        <li>Dizi</li>
+        <p>
+            <lu style="list-style-type:style type square">
+                <li>İnto The Night</li>
+            </lu>
+        </p>
+    </lo>
+</p>
 
 
-</body
+</body>
