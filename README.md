@@ -23,6 +23,5 @@
 <p>- Örgü örmek</p>
 <p>- Aksiyon film-dizi izlemek</p>
 
-<!--Kodluyoruz bağlantısı vermek için a href komutunu kullandım-->
-<a href="https://github.com/Elif-desing/Patika-ilk-Web-Page"
-</body>
+
+</body
