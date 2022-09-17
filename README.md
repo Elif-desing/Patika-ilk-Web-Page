@@ -37,17 +37,23 @@
 </p>
 <p>
     <lo>
-        <li>Film</li>
-        <p>
-            <lu style="list-style-type:square">
+        <li>Film
+        <p><lu style="list-style-type:square">
                 <li><a href="https://www.imdb.com/title/tt1392170/?ref_=ext_shr_lnk">Açlık Oyunları</a></li>
-            </lu>
+            </lu> 
         </p>
+        </li>
     </lo>
 </p>
 <p>
     <lo>
-        <li>Dizi</li>
+        <li>Dizi
+         <p>
+                <lu>
+                    <li><a href="https://www.imdb.com/title/tt11743610/?ref_=ext_shr_lnk">The Terminal List</a></li>
+                </lu>
+            </p>
+        </li>
         <p>
             <lu style="list-style-type:square">
                 <li>İnto The Night</li>
@@ -55,6 +61,8 @@
         </p>
     </lo>
 </p>
-
+<img src="https://yorumguncel.com/wp-content/uploads/2022/07/the-terminal-list-infaz-listesi-dizi-konusu-oyunculari-amazon.jpg"
+ alt="">
+ <p>The Terminal List son zamanlarda Amazon Prime'da izlediğim en iyi yapımlardan.Her ne kadar sonu hüzünlü bitmiş olsada...</p>
 
 </body>
